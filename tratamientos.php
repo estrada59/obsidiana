@@ -82,10 +82,10 @@
 						<div class="thumb">
 							<img src="img/services/1.jpg" alt="" />
 						</div>
-						<h2>Herbal Spa</h2>
+						<h2>Contorno de labios</h2>
 						<div class="price-text"><sup>$</sup>120<sub>/hr</sub></div>
 						<p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias</p>
-						<a href="procedures-details.html" class="btn btn-default">Read More</a>
+						<a href="procedures-details.html" class="btn btn-default">Leer más</a>
 					</div>
 				</div>
 				<div class="col-xs-6 col-sm-6 col-md-4">
@@ -93,10 +93,10 @@
 						<div class="thumb">
 							<img src="img/services/2.jpg" alt="" />
 						</div>
-						<h2>Skin Care</h2>
+						<h2>Labios full color</h2>
 						<div class="price-text"><sup>$</sup>110<sub>/hr</sub></div>
 						<p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias</p>
-						<a href="procedures-details.html" class="btn btn-default">Read More</a>
+						<a href="procedures-details.html" class="btn btn-default">Leer más</a>
 					</div>
 				</div>
 				<div class="col-xs-6 col-sm-6 col-md-4">
@@ -104,10 +104,10 @@
 						<div class="thumb">
 							<img src="img/services/3.jpg" alt="" />
 						</div>
-						<h2>Stone Message</h2>
+						<h2>Línea párpado súperior</h2>
 						<div class="price-text"><sup>$</sup>150<sub>/hr</sub></div>
 						<p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias</p>
-						<a href="procedures-details.html" class="btn btn-default">Read More</a>
+						<a href="procedures-details.html" class="btn btn-default">Leer más</a>
 					</div>
 				</div>
 				<div class="col-xs-6 col-sm-6 col-md-4">
@@ -115,10 +115,10 @@
 						<div class="thumb">
 							<img src="img/services/4.jpg" alt="" />
 						</div>
-						<h2>Body Message</h2>
+						<h2>Línea párpado inferior</h2>
 						<div class="price-text"><sup>$</sup>180<sub>/hr</sub></div>
 						<p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias</p>
-						<a href="procedures-details.html" class="btn btn-default">Read More</a>
+						<a href="procedures-details.html" class="btn btn-default">Leer más</a>
 					</div>
 				</div>
 				<div class="col-xs-6 col-sm-6 col-md-4">
@@ -126,10 +126,10 @@
 						<div class="thumb">
 							<img src="img/services/1.jpg" alt="" />
 						</div>
-						<h2>Aromatherapy</h2>
+						<h2>Línea de luz párpado superior</h2>
 						<div class="price-text"><sup>$</sup>100<sub>/hr</sub></div>
-						<p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias</p>
-						<a href="procedures-details.html" class="btn btn-default">Read More</a>
+						<p>At vero eos et accusamus ui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias</p>
+						<a href="procedures-details.html" class="btn btn-default">Leer más</a>
 					</div>
 				</div>
 				<div class="col-xs-6 col-sm-6 col-md-4">
@@ -137,10 +137,10 @@
 						<div class="thumb">
 							<img src="img/services/3.jpg" alt="" />
 						</div>
-						<h2>Hydrotherapy</h2>
+						<h2>Cejas compactas</h2>
 						<div class="price-text"><sup>$</sup>120<sub>/hr</sub></div>
 						<p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias</p>
-						<a href="procedures-details.html" class="btn btn-default">Read More</a>
+						<a href="procedures-details.html" class="btn btn-default">Leer más</a>
 					</div>
 				</div>
 				<div class="col-xs-6 col-sm-6 col-md-4">
@@ -148,10 +148,10 @@
 						<div class="thumb">
 							<img src="img/services/1.jpg" alt="" />
 						</div>
-						<h2>Herbal Spa</h2>
+						<h2>Cejas sombreadas</h2>
 						<div class="price-text"><sup>$</sup>120<sub>/hr</sub></div>
 						<p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias</p>
-						<a href="procedures-details.html" class="btn btn-default">Read More</a>
+						<a href="procedures-details.html" class="btn btn-default">Leer más</a>
 					</div>
 				</div>
 				<div class="col-xs-6 col-sm-6 col-md-4">
@@ -159,10 +159,10 @@
 						<div class="thumb">
 							<img src="img/services/2.jpg" alt="" />
 						</div>
-						<h2>Skin Care</h2>
+						<h2>Cejas técnica mixta</h2>
 						<div class="price-text"><sup>$</sup>110<sub>/hr</sub></div>
 						<p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias</p>
-						<a href="procedures-details.html" class="btn btn-default">Read More</a>
+						<a href="procedures-details.html" class="btn btn-default">Leer más</a>
 					</div>
 				</div>
 				<div class="col-xs-6 col-sm-6 col-md-4">
@@ -170,10 +170,10 @@
 						<div class="thumb">
 							<img src="img/services/3.jpg" alt="" />
 						</div>
-						<h2>Stone Message</h2>
+						<h2>Microblading</h2>
 						<div class="price-text"><sup>$</sup>150<sub>/hr</sub></div>
 						<p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias</p>
-						<a href="procedures-details.html" class="btn btn-default">Read More</a>
+						<a href="procedures-details.html" class="btn btn-default">Leer más</a>
 					</div>
 				</div>
 				<div class="col-xs-6 col-sm-6 col-md-4">
@@ -181,10 +181,10 @@
 						<div class="thumb">
 							<img src="img/services/4.jpg" alt="" />
 						</div>
-						<h2>Body Message</h2>
+						<h2>Extensiones de pestañas 1x1</h2>
 						<div class="price-text"><sup>$</sup>180<sub>/hr</sub></div>
 						<p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias</p>
-						<a href="procedures-details.html" class="btn btn-default">Read More</a>
+						<a href="procedures-details.html" class="btn btn-default">Leer más</a>
 					</div>
 				</div>
 				<div class="col-xs-6 col-sm-6 col-md-4">
@@ -192,10 +192,10 @@
 						<div class="thumb">
 							<img src="img/services/1.jpg" alt="" />
 						</div>
-						<h2>Aromatherapy</h2>
+						<h2>Extensiones de pestañas Técnica Mixta</h2>
 						<div class="price-text"><sup>$</sup>100<sub>/hr</sub></div>
 						<p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias</p>
-						<a href="procedures-details.html" class="btn btn-default">Read More</a>
+						<a href="procedures-details.html" class="btn btn-default">Leer más</a>
 					</div>
 				</div>
 				<div class="col-xs-6 col-sm-6 col-md-4">
@@ -203,10 +203,54 @@
 						<div class="thumb">
 							<img src="img/services/3.jpg" alt="" />
 						</div>
-						<h2>Hydrotherapy</h2>
+						<h2>Extensiones de pestañas Volumen</h2>
 						<div class="price-text"><sup>$</sup>120<sub>/hr</sub></div>
 						<p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias</p>
-						<a href="procedures-details.html" class="btn btn-default">Read More</a>
+						<a href="procedures-details.html" class="btn btn-default">Leer más</a>
+					</div>
+				</div>
+				<div class="col-xs-6 col-sm-6 col-md-4">
+					<div class="service-list">
+						<div class="thumb">
+							<img src="img/services/3.jpg" alt="" />
+						</div>
+						<h2>Lash lifting</h2>
+						<div class="price-text"><sup>$</sup>120<sub>/hr</sub></div>
+						<p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias</p>
+						<a href="procedures-details.html" class="btn btn-default">Leer más</a>
+					</div>
+				</div>
+				<div class="col-xs-6 col-sm-6 col-md-4">
+					<div class="service-list">
+						<div class="thumb">
+							<img src="img/services/3.jpg" alt="" />
+						</div>
+						<h2>Antifaz de juventud</h2>
+						<div class="price-text"><sup>$</sup>120<sub>/hr</sub></div>
+						<p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias</p>
+						<a href="procedures-details.html" class="btn btn-default">Leer más</a>
+					</div>
+				</div>
+				<div class="col-xs-6 col-sm-6 col-md-4">
+					<div class="service-list">
+						<div class="thumb">
+							<img src="img/services/3.jpg" alt="" />
+						</div>
+						<h2>Microdermoabrasion + Hidratación</h2>
+						<div class="price-text"><sup>$</sup>120<sub>/hr</sub></div>
+						<p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias</p>
+						<a href="procedures-details.html" class="btn btn-default">Leer más</a>
+					</div>
+				</div>
+				<div class="col-xs-6 col-sm-6 col-md-4">
+					<div class="service-list">
+						<div class="thumb">
+							<img src="img/services/3.jpg" alt="" />
+						</div>
+						<h2>Limpieza profunda</h2>
+						<div class="price-text"><sup>$</sup>120<sub>/hr</sub></div>
+						<p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias</p>
+						<a href="procedures-details.html" class="btn btn-default">Leer más</a>
 					</div>
 				</div>
 			</div>

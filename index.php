@@ -138,7 +138,7 @@
 							<h2>Contorno de labios</h2>
 							<div class="price-text"><sup>$</sup>160<sub>/hr</sub></div>
 							<p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias</p>
-							<a href="procedures-details.html" class="btn btn-default">Read More</a>
+							<a href="procedures-details.html" class="btn btn-default">Leer más</a>
                         </div>
                         
                         <div class="service-list">
@@ -148,7 +148,7 @@
 							<h2>Labios full color</h2>
 							<div class="price-text"><sup>$</sup>110<sub>/hr</sub></div>
 							<p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias</p>
-							<a href="procedures-details.html" class="btn btn-default">Read More</a>
+							<a href="procedures-details.html" class="btn btn-default">Leer más</a>
 						</div>
 						
 						<div class="service-list">
@@ -158,7 +158,7 @@
 							<h2>Línea párpado súperior</h2>
 							<div class="price-text"><sup>$</sup>120<sub>/hr</sub></div>
 							<p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias</p>
-							<a href="procedures-details.html" class="btn btn-default">Read More</a>
+							<a href="procedures-details.html" class="btn btn-default">Leer más</a>
 						</div>
 						
 						<div class="service-list">
@@ -168,7 +168,7 @@
 							<h2>Línea párpado inferior</h2>
 							<div class="price-text"><sup>$</sup>130<sub>/hr</sub></div>
 							<p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias</p>
-							<a href="procedures-details.html" class="btn btn-default">Read More</a>
+							<a href="procedures-details.html" class="btn btn-default">Leer más</a>
 						</div>
 						
 						<div class="service-list">
@@ -178,7 +178,7 @@
 							<h2>Línea de luz párpado superior</h2>
 							<div class="price-text"><sup>$</sup>110<sub>/hr</sub></div>
 							<p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias</p>
-							<a href="procedures-details.html" class="btn btn-default">Read More</a>
+							<a href="procedures-details.html" class="btn btn-default">Leer más</a>
 						</div>
 						
 						<div class="service-list">
@@ -188,7 +188,7 @@
 							<h2>Cejas compactas</h2>
 							<div class="price-text"><sup>$</sup>120<sub>/hr</sub></div>
 							<p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias</p>
-							<a href="procedures-details.html" class="btn btn-default">Read More</a>
+							<a href="procedures-details.html" class="btn btn-default">Leer más</a>
 						</div>
 						
 						<div class="service-list">
@@ -198,7 +198,7 @@
 							<h2>Cejas sombreadas</h2>
 							<div class="price-text"><sup>$</sup>130<sub>/hr</sub></div>
 							<p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias</p>
-							<a href="procedures-details.html" class="btn btn-default">Read More</a>
+							<a href="procedures-details.html" class="btn btn-default">Leer más</a>
                         </div>
                         
                         <div class="service-list">
@@ -208,7 +208,7 @@
 							<h2>Cejas técnica mixta</h2>
 							<div class="price-text"><sup>$</sup>130<sub>/hr</sub></div>
 							<p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias</p>
-							<a href="procedures-details.html" class="btn btn-default">Read More</a>
+							<a href="procedures-details.html" class="btn btn-default">Leer más</a>
                         </div>
                         
                         <div class="service-list">
@@ -218,7 +218,7 @@
 							<h2>Microblading</h2>
 							<div class="price-text"><sup>$</sup>130<sub>/hr</sub></div>
 							<p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias</p>
-							<a href="procedures-details.html" class="btn btn-default">Read More</a>
+							<a href="procedures-details.html" class="btn btn-default">Leer más</a>
                         </div>
                         
                         <div class="service-list">
@@ -228,7 +228,7 @@
 							<h2>Extensiones de pestañas 1x1</h2>
 							<div class="price-text"><sup>$</sup>130<sub>/hr</sub></div>
 							<p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias</p>
-							<a href="procedures-details.html" class="btn btn-default">Read More</a>
+							<a href="procedures-details.html" class="btn btn-default">Leer más</a>
                         </div>
                         
                         <div class="service-list">
@@ -238,7 +238,7 @@
 							<h2>Extensiones de pestañas Técnica Mixta</h2>
 							<div class="price-text"><sup>$</sup>130<sub>/hr</sub></div>
 							<p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias</p>
-							<a href="procedures-details.html" class="btn btn-default">Read More</a>
+							<a href="procedures-details.html" class="btn btn-default">Leer más</a>
                         </div>
                         
                         <div class="service-list">
@@ -248,7 +248,7 @@
 							<h2>Extensiones de pestañas Volumen</h2>
 							<div class="price-text"><sup>$</sup>130<sub>/hr</sub></div>
 							<p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias</p>
-							<a href="procedures-details.html" class="btn btn-default">Read More</a>
+							<a href="procedures-details.html" class="btn btn-default">Leer más</a>
                         </div>
                         
                         <div class="service-list">
@@ -258,7 +258,7 @@
 							<h2>Lash lifting</h2>
 							<div class="price-text"><sup>$</sup>130<sub>/hr</sub></div>
 							<p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias</p>
-							<a href="procedures-details.html" class="btn btn-default">Read More</a>
+							<a href="procedures-details.html" class="btn btn-default">Leer más</a>
                         </div>
                         
                         <div class="service-list">
@@ -268,7 +268,7 @@
 							<h2>Antifaz de juventud</h2>
 							<div class="price-text"><sup>$</sup>130<sub>/hr</sub></div>
 							<p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias</p>
-							<a href="procedures-details.html" class="btn btn-default">Read More</a>
+							<a href="procedures-details.html" class="btn btn-default">Leer más</a>
                         </div>
                         
                         <div class="service-list">
@@ -278,7 +278,7 @@
 							<h2>Microdermoabrasion + Hidratación</h2>
 							<div class="price-text"><sup>$</sup>130<sub>/hr</sub></div>
 							<p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias</p>
-							<a href="procedures-details.html" class="btn btn-default">Read More</a>
+							<a href="procedures-details.html" class="btn btn-default">Leer más</a>
                         </div>
                         
                         <div class="service-list">
@@ -288,7 +288,7 @@
 							<h2>Limpieza profunda</h2>
 							<div class="price-text"><sup>$</sup>130<sub>/hr</sub></div>
 							<p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias</p>
-							<a href="procedures-details.html" class="btn btn-default">Read More</a>
+							<a href="procedures-details.html" class="btn btn-default">Leer más</a>
                         </div>
                         
 
@@ -467,7 +467,7 @@
 			<div class="row">
 				<div class="col-xs-12">
 					<div class="load-more text-center">
-						<a href="#" class="btn btn-primary">View All</a>
+						<a href="galeria.php" class="btn btn-primary">Ver todo</a>
 					</div>
 				</div>
 			</div>
