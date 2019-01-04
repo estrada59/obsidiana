@@ -105,10 +105,14 @@
                         <a href="tratamientos.php">Tratamientos</a>
                     </li>
 
-                    <li>
-                        <a href="acerca_de_nosotros.php">Acerca de Nosotros</a>
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Nosotros <span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                            <li><a href="acerca_de_nosotros.php">Acerca de Nosotros</a></li>
+                            <li><a href="galeria.php">Galería</a></li>
+                        </ul>
                     </li>
-
+                    
                     <li><a href="contactanos.php">Contacto</a></li>
 
                     <!--<li class="dropdown">

@@ -1,46 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="">
-    <meta name="author" content="">
-	<title>Lisa - Wellness Center, Spa and Beauty Salon Template</title>
-	<link rel="shortcut icon" href="img/favicon.png" type="image/x-icon">
-    <!-- Bootstrap Core CSS -->
-    <link href="css/bootstrap.min.css" rel="stylesheet">
-	 <!-- Animate CSS -->
-	<link href="css/animate.css" rel="stylesheet">
-	<!--Fancybox-->
-	<link href="css/jquery.fancybox.css" rel="stylesheet">
-	<!-- font-awesome-->
-	<link rel="stylesheet" href="fonts/font-awesome/css/font-awesome.min.css">
-	<!--Owl Carousel-->
-	<link href="css/owl.carousel.css" rel="stylesheet">
-	<!--Chosen-->
-	<link href="css/chosen.css" rel="stylesheet">
-	<!--Time picker-->
-	<link href="css/bootstrap-timepicker.min.css" rel="stylesheet">
-	<!--Date picker-->
-	<link href="css/datepicker.css" rel="stylesheet">
-	<!--Google Fonts-->
-	<link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet">
-	<link href="https://fonts.googleapis.com/css?family=Raleway:300,400,500,700" rel="stylesheet"> 
-	<!-- Main CSS -->
-	<link href="style.css" rel="stylesheet">
-	<!-- Color switcher -->
-    <link rel="stylesheet" href="css/skin/color1.css" id="colors">
-	
-	<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
-    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-    <!--[if lt IE 9]>
-        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
-        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
-    <![endif]-->
-
+    <?php 
+        //head
+        //en éste encabezado podemos cambiar color a los css
+        include_once "header.php";
+		head();
+	?>
 </head>
-
 <body>
 	<!--Preload-->
 	<div class="preloader">
@@ -48,31 +15,9 @@
 	</div>
 	
 	<!-- Top bar -->
-	<div class="top-bar">
-		<div class="container">
-			<div class="row">
-				<div class="col-xs-12 col-xs-6">
-					<div class="top-left">
-						<ul>
-							<li><i class="fa fa-phone"></i> <a href="tel:1238782899">+123 878 2899</a></li>
-							<li><i class="fa fa-envelope-o"></i> <a href="mailto:demo@domain.com">demo@domain.com</a></li>
-						</ul>
-					</div>
-				</div>
-				<div class="col-xs-12 col-xs-6">
-					<div class="top-right">
-						<ul class="social-media">
-							<li><a href="#"><i class="fa fa-facebook"></i></a></li>
-							<li><a href="#"><i class="fa fa-twitter"></i></a></li>
-							<li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-							<li><a href="#"><i class="fa fa-youtube"></i></a></li>
-							<li><a href="#"><i class="fa fa-instagram"></i></a></li>
-						</ul>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
+    <?php
+		top_bar();
+    ?>
 	<!-- End Top bar -->
 	
     <!-- Navigation -->
@@ -88,61 +33,16 @@
 							  <span class="icon-bar"></span>
 							  <span class="icon-bar"></span>
 							</span>
-						</button>
-						<a class="navbar-brand" href="index.html"><img src="img/logo.png" alt="Logo" /></a>
+                        </button>
+                        <?php 
+                            logo();
+                        ?>	
 					</div>
 
 					<!-- Collect the nav links, forms, and other content for toggling -->
-					 <div id="navbar" class="navbar-collapse collapse">
-						<ul class="nav navbar-nav navbar-right">
-							<li class="dropdown">
-								<a href="#" class="dropdown-toggle" data-toggle="dropdown">Home <span class="caret"></span></a>
-								<ul class="dropdown-menu">
-									<li><a href="index.html">Home Standard</a></li>
-									<li><a href="index-parallax.html">Home Parallax</a></li>
-									<li><a href="index-newsticker.html">Home Newsticker</a></li>
-									<li><a href="index-text-rotate.html">Home Text Rotate</a></li>
-									<li><a href="index-static.html">Home Static</a></li>
-								</ul>
-							</li>
-							<li class="dropdown">
-								<a href="#" class="dropdown-toggle" data-toggle="dropdown">Pages <span class="caret"></span></a>
-								<ul class="dropdown-menu">
-									<li><a href="about-us.html">About Us</a></li>
-									<li><a href="procedures.html">Procedures</a></li>
-									<li><a href="procedures-details.html">Procedures Details</a></li>
-									<li><a href="therapists.html">Therapists</a></li>
-									<li><a href="pricing-table.html">Pricing Table</a></li>
-									<li><a href="404.html">Error Page</a></li>
-								</ul>
-							</li>
-							<li class="dropdown active">
-								<a href="#" class="dropdown-toggle" data-toggle="dropdown">Gallery <span class="caret"></span></a>
-								<ul class="dropdown-menu">
-									<li class="active"><a href="gallery.html">Gallery</a></li>
-									<li><a href="gallery-two-column.html">Gallery Two Column</a></li>
-									<li><a href="gallery-three-column.html">Gallery Three Column</a></li>
-									<li><a href="gallery-without-filter.html">Gallery Without Filter</a></li>
-									<li><a href="gallery-masonry.html">Masonry Gallery</a></li>
-								</ul>
-							</li>
-							<li class="dropdown">
-								<a href="#" class="dropdown-toggle" data-toggle="dropdown">Blog <span class="caret"></span></a>
-								<ul class="dropdown-menu">
-									<li><a href="blog-list-view.html">Blog List View</a></li>
-									<li><a href="blog-grid-view.html">Blog Grid View</a></li>
-									<li><a href="blog-grid-view-2.html">Blog Grid View 2</a></li>
-									<li><a href="blog-details.html">Blog Details</a></li>
-								</ul>
-							</li>
-							<li>
-								<a href="contact-us.html">Contact Us</a>
-							</li>
-							<li class="reservation">
-								<a href="#" data-toggle="modal" data-target="#reservation">Reservation</a>
-							</li>
-						</ul>
-					</div>
+                     <?php 
+                        nav();
+                     ?>
 					<!-- /.navbar-collapse -->
 				</div>
 			</div>
@@ -158,10 +58,9 @@
 				<div class="row">
 					<div class="col-xs-12">
 						<div class="page-title text-center">
-							<h1>Gallery</h1>
+							<h1>Galería</h1>
 							<ol class="breadcrumb">
-								<li><a href="index.html">Home</a></li>
-								<li class="active">Gallery</li>
+								
 							</ol>
 						</div>
 					</div>
@@ -177,11 +76,11 @@
 			<div class="row">
             	<div class="col-xs-12">
                 	<ul id="filter-list">
-                     	<li class="filter" data-filter="all">ALL</li>
-                      	<li class="filter" data-filter="stone-message">Stone Message</li>
-                      	<li class="filter" data-filter="body-message">Body Message</li>
-                      	<li class="filter" data-filter="herbal-spa">Herbal Spa</li>
-						<li class="filter" data-filter="skin-care">Skin Care</li>
+                     	<li class="filter" data-filter="all">Todo</li>
+                      	<li class="filter" data-filter="stone-message">Micropigmentación</li>
+                      	<li class="filter" data-filter="body-message">Pestañas</li>
+                      	<li class="filter" data-filter="herbal-spa">Cuidado Facial</li>
+						
                     </ul><!-- @end #filter-list -->
                 </div>
             </div><!--end row-->
@@ -292,65 +191,11 @@
 	</section>
 	<!-- End Portfolio Section -->
 	
-	<footer id="footer">
-		<div class="footer-top">
-			<div class="container">
-				<div class="row">
-					<div class="col-xs-12 col-sm-3">
-						<div class="footer-widget">
-							<h2>About Us</h2>
-							<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
-							
-						</div>
-					</div>
-					<div class="col-xs-12 col-sm-3">
-						<div class="footer-widget">
-							<h2>Quick Links</h2>
-							<ul>
-								<li><a href="#">About Us</a></li>
-								<li><a href="#">Procedures</a></li>
-								<li><a href="#">Therapists</a></li>
-								<li><a href="#">Gallery</a></li>
-								<li><a href="#">Contact Us</a></li>
-							</ul>
-						</div>
-					</div>
-					<div class="col-xs-12 col-sm-3">
-						<div class="footer-widget">
-							<h2>Contact Info</h2>
-							<ul>
-								<li><i class="fa fa-send" aria-hidden="true"></i> 3481 Rabana Place, 2090</li>
-								<li><i class="fa fa-phone" aria-hidden="true"></i> +880 1798078632</li>
-								<li><i class="fa fa-envelope-o" aria-hidden="true"></i> info@almus.com</li>
-								<li><i class="fa fa-fax" aria-hidden="true"></i> Fax : 02 9635 0247</li>
-							</ul>
-						</div>
-					</div>
-					<div class="col-xs-12 col-sm-3">
-						<div class="footer-widget">
-							<h2>Business hour</h2>
-							<ul class="bussiness-hour">
-								<li>Monday-Friday: <span class="pull-right">9am - 5pm.</span></li>
-								<li>Saturday: <span class="pull-right">10am - 2pm.</span></li>
-								<li>Sunday: <span class="pull-right">Closed.</span></li>
-							</ul>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-		<div class="footer-bottom">
-			<div class="container">
-				<div class="row">
-					<div class="col-xs-12">
-						<div class="copyright text-center">
-							<p>&copy;copyright 2016 Lisa | All right reserved.</p>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</footer>
+	<!-- Start footer-->
+	<?php
+        footer();
+    ?>
+    <!-- Edn footer-->
 	
 	<!-- Bact to top Section-->
 	<div class="back-top">

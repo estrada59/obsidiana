@@ -8,8 +8,6 @@
 		head();
 	?>
 </head>
-
-
 <body>
 	<!--Preload-->
 	<div class="preloader">
