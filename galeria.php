@@ -91,27 +91,27 @@
 						
 						<li class="gallery colocacion_de_pestañas">
 							<div class="post_thumb">
-								<img src="img/gallery/pestañas_1.jpg" alt="">
+								<img src="img/gallery/pestanas_1.jpg" alt="">
 								<div class="gallery-overlay">
-									<a href="img/gallery/pestañas_1.jpg" class="fancybox" title="Colocación de pestañas paso:1"><i class="fa fa-camera"></i></a>
+									<a href="img/gallery/pestanas_1.jpg" class="fancybox" title="Colocación de pestañas paso:1"><i class="fa fa-camera"></i></a>
 								</div>
 							</div>
 						</li>
 
-						
+
 						<li class="gallery colocacion_de_pestañas">
 							<div class="post_thumb">
-								<img src="img/gallery/pestañas_2.jpg" alt="">
+								<img src="img/gallery/pestanas_2.jpg" alt="">
 								<div class="gallery-overlay">
-									<a href="img/gallery/pestañas_2.jpg" class="fancybox" title="Colocación de pestañas paso:2"><i class="fa fa-camera"></i></a>
+									<a href="img/gallery/pestanas_2.jpg" class="fancybox" title="Colocación de pestañas paso:2"><i class="fa fa-camera"></i></a>
 								</div>
 							</div>
 						</li>
 						<li class="gallery colocacion_de_pestañas">
 							<div class="post_thumb">
-								<img src="img/gallery/pestañas_3.jpg" alt="">
+								<img src="img/gallery/pestanas_3.jpg" alt="">
 								<div class="gallery-overlay">
-									<a href="img/gallery/pestañas_3.jpg" class="fancybox" title="Colocación de pestañas paso:3"><i class="fa fa-camera"></i></a>
+									<a href="img/gallery/pestanas_3.jpg" class="fancybox" title="Colocación de pestañas paso:3"><i class="fa fa-camera"></i></a>
 								</div>
 							</div>
 						</li>
