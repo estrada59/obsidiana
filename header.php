@@ -84,7 +84,7 @@
                                     <!--<li><a href="#"><i class="fa fa-twitter"></i></a></li>
                                     <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
                                     <li><a href="#"><i class="fa fa-youtube"></i></a></li>-->
-                                    <li><a href="https://www.instagram.com/obsidiana_micro/?hl=es-la"><i class="fa fa-instagram"></i></a></li>
+                                    <li><a href="https://www.instagram.com/obsidiana_micro/?hl=es-la" target="_blank"><i class="fa fa-instagram"></i></a></li>
                                 </ul>
                             </div>
                         </div>
