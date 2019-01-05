@@ -97,6 +97,8 @@
 								</div>
 							</div>
 						</li>
+
+						
 						<li class="gallery colocacion_de_pestañas">
 							<div class="post_thumb">
 								<img src="img/gallery/pestañas_2.jpg" alt="">
