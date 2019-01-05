@@ -57,7 +57,7 @@
 
 		<!-- Wrapper for slides -->
 		<div class="carousel-inner" role="listbox">
-			<div class="item active" style="background-image:url(img/banner/logo_obsidiana_negro.png);">
+			<div class="item active" style="background-image:url(img/banner/microblading.jpg);">
 				<div class="caption-info">
 					<div class="container">
 						<div class="row">
@@ -73,7 +73,7 @@
 				</div>
 			</div>
 			
-			<div class="item" style="background-image:url(img/banner/2.jpg);">
+			<div class="item" style="background-image:url(img/banner/delineado_de_labios.jpg);">
 				<div class="caption-info">
 					<div class="container">
 						<div class="row">
@@ -89,7 +89,7 @@
 				</div>
 			</div>
 			
-			<div class="item" style="background-image:url(img/banner/3.jpg);">
+			<div class="item" style="background-image:url(img/banner/cejas.jpg);">
 				<div class="caption-info">
 					<div class="container">
 						<div class="row">
@@ -120,7 +120,7 @@
 			<div class="row">
 				<div class="col-xs-12">
 					<div class="title-block text-center">
-						<h1>Tratamientos destacados</h1>
+						<h1>Servicios destacados</h1>
 						<div class="line-block">
 							<span class="bullet"><i class="fa fa-leaf"></i></span>
 						</div>
@@ -133,7 +133,7 @@
 					<div class="services-block" id="services-carousel">
 						<div class="service-list">
 							<div class="thumb">
-								<img src="img/services/1.jpg" alt="" />
+								<img src="img/services/delineado_de_labios.jpg" alt="" />
 							</div>
 							<h2>Contorno de labios</h2>
 							<div class="price-text"><sup>$</sup>160<sub>/hr</sub></div>
@@ -143,7 +143,7 @@
                         
                         <div class="service-list">
 							<div class="thumb">
-								<img src="img/services/2.jpg" alt="" />
+								<img src="img/services/delineado_labios.jpg" alt="" />
 							</div>
 							<h2>Labios full color</h2>
 							<div class="price-text"><sup>$</sup>110<sub>/hr</sub></div>
@@ -323,7 +323,7 @@
     <!-- End Subscribe -->
     
     <!-- Counter Section -->
-	<section class="count-section bg" id="counter" data-stellar-background-ratio="0.5" style="background-image: url(img/bg/counter-bg.jpg);">
+	<section class="count-section bg" id="counter" data-stellar-background-ratio="0.5" style="background-image: url(img/bg/delineado_de_parpados.jpg);">
 		<div class="container">
 			<div class="row">
 				<div class="col-xs-6 col-sm-4">
@@ -366,57 +366,57 @@
 					<ul class="gallery-item">
 						<li>
 							<div class="post_thumb">
-								<img src="img/gallery/1.jpg" alt="">
+								<img src="img/gallery/cejas.jpg" alt="">
 								<div class="gallery-overlay">
-									<a href="img/gallery/1.jpg" class="fancybox" title="Gallery Image 1"><i class="fa fa-camera"></i></a>
+									<a href="img/gallery/cejas.jpg" class="fancybox" title="Cejas compactas"><i class="fa fa-camera"></i></a>
 								</div>
 							</div>
 						</li>
 						<li>
 							<div class="post_thumb">
-								<img src="img/gallery/2.jpg" alt="">
+								<img src="img/gallery/cuidado_facial.jpg" alt="">
 								<div class="gallery-overlay">
-									<a href="img/gallery/2.jpg" class="fancybox" title="Gallery Image 2"><i class="fa fa-camera"></i></a>
+									<a href="img/gallery/cuidado_facial.jpg" class="fancybox" title="Cuidado facial"><i class="fa fa-camera"></i></a>
 								</div>
 							</div>
 						</li>
 						<li>
 							<div class="post_thumb">
-								<img src="img/gallery/3.jpg" alt="">
+								<img src="img/gallery/delineado_de_labios.jpg" alt="">
 								<div class="gallery-overlay">
-									<a href="img/gallery/3.jpg" class="fancybox" title="Gallery Image 3"><i class="fa fa-camera"></i></a>
+									<a href="img/gallery/delineado_de_labios.jpg" class="fancybox" title="Contorno de labios"><i class="fa fa-camera"></i></a>
 								</div>
 							</div>
 						</li>
 						<li>
 							<div class="post_thumb">
-								<img src="img/gallery/4.jpg" alt="">
+								<img src="img/gallery/delineado_de_parpados.jpg" alt="">
 								<div class="gallery-overlay">
-									<a href="img/gallery/4.jpg" class="fancybox" title="Gallery Image 4"><i class="fa fa-camera"></i></a>
+									<a href="img/gallery/delineado_de_parpados.jpg" class="fancybox" title="Delineado de parpados"><i class="fa fa-camera"></i></a>
+								</div>
+							</div>
+						</li>
+					<!--	<li>
+							<div class="post_thumb">
+								<img src="img/gallery/labios.jpg" alt="">
+								<div class="gallery-overlay">
+									<a href="img/gallery/labios.jpg" class="fancybox" title="Labios full color"><i class="fa fa-camera"></i></a>
 								</div>
 							</div>
 						</li>
 						<li>
 							<div class="post_thumb">
-								<img src="img/gallery/5.jpg" alt="">
+								<img src="img/gallery/microblading.jpg" alt="">
 								<div class="gallery-overlay">
-									<a href="img/gallery/5.jpg" class="fancybox" title="Gallery Image 5"><i class="fa fa-camera"></i></a>
+									<a href="img/gallery/microblading.jpg" class="fancybox" title="Microblading"><i class="fa fa-camera"></i></a>
 								</div>
 							</div>
 						</li>
 						<li>
 							<div class="post_thumb">
-								<img src="img/gallery/6.jpg" alt="">
+								<img src="img/gallery/pestañas.jpg" alt="">
 								<div class="gallery-overlay">
-									<a href="img/gallery/6.jpg" class="fancybox" title="Gallery Image 6"><i class="fa fa-camera"></i></a>
-								</div>
-							</div>
-						</li>
-						<li>
-							<div class="post_thumb">
-								<img src="img/gallery/7.jpg" alt="">
-								<div class="gallery-overlay">
-									<a href="img/gallery/7.jpg" class="fancybox" title="Gallery Image 7"><i class="fa fa-camera"></i></a>
+									<a href="img/gallery/pestañas.jpg" class="fancybox" title="Extensión de pestañas 1x1"><i class="fa fa-camera"></i></a>
 								</div>
 							</div>
 						</li>
@@ -459,7 +459,7 @@
 									<a href="img/gallery/12.jpg" class="fancybox" title="Gallery Image 12"><i class="fa fa-camera"></i></a>
 								</div>
 							</div>
-						</li>
+						</li>  -->
 					</ul>
 				</div>
 			</div>

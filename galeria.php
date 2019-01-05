@@ -69,7 +69,7 @@
 		</div><!--end title-info-->
 	</section>
 	<!--end page-title-->
-	
+
 	<!-- Portfolio Section -->
 	<section id="portfolio">
 		<div class="container">
@@ -78,7 +78,7 @@
                 	<ul id="filter-list">
                      	<li class="filter" data-filter="all">Todo</li>
                       	<li class="filter" data-filter="stone-message">Micropigmentación</li>
-                      	<li class="filter" data-filter="body-message">Pestañas</li>
+                      	<li class="filter" data-filter="colocacion_de_pestañas">Pestañas</li>
                       	<li class="filter" data-filter="herbal-spa">Cuidado Facial</li>
 						
                     </ul><!-- @end #filter-list -->
@@ -88,35 +88,28 @@
 			<div class="row">
 				<div class="col-xs-12">
 					<ul class="gallery-item">
-						<li class="gallery herbal-spa">
+						
+						<li class="gallery colocacion_de_pestañas">
 							<div class="post_thumb">
-								<img src="img/gallery/1.jpg" alt="">
+								<img src="img/gallery/pestañas_1.jpg" alt="">
 								<div class="gallery-overlay">
-									<a href="img/gallery/1.jpg" class="fancybox" title="Gallery Image 1"><i class="fa fa-camera"></i></a>
+									<a href="img/gallery/pestañas_1.jpg" class="fancybox" title="Colocación de pestañas paso:1"><i class="fa fa-camera"></i></a>
 								</div>
 							</div>
 						</li>
-						<li class="gallery stone-message">
+						<li class="gallery colocacion_de_pestañas">
 							<div class="post_thumb">
-								<img src="img/gallery/2.jpg" alt="">
+								<img src="img/gallery/pestañas_2.jpg" alt="">
 								<div class="gallery-overlay">
-									<a href="img/gallery/2.jpg" class="fancybox" title="Gallery Image 2"><i class="fa fa-camera"></i></a>
+									<a href="img/gallery/pestañas_2.jpg" class="fancybox" title="Colocación de pestañas paso:2"><i class="fa fa-camera"></i></a>
 								</div>
 							</div>
 						</li>
-						<li class="gallery skin-care">
+						<li class="gallery colocacion_de_pestañas">
 							<div class="post_thumb">
-								<img src="img/gallery/3.jpg" alt="">
+								<img src="img/gallery/pestañas_3.jpg" alt="">
 								<div class="gallery-overlay">
-									<a href="img/gallery/3.jpg" class="fancybox" title="Gallery Image 3"><i class="fa fa-camera"></i></a>
-								</div>
-							</div>
-						</li>
-						<li class="gallery body-message">
-							<div class="post_thumb">
-								<img src="img/gallery/4.jpg" alt="">
-								<div class="gallery-overlay">
-									<a href="img/gallery/4.jpg" class="fancybox" title="Gallery Image 4"><i class="fa fa-camera"></i></a>
+									<a href="img/gallery/pestañas_3.jpg" class="fancybox" title="Colocación de pestañas paso:3"><i class="fa fa-camera"></i></a>
 								</div>
 							</div>
 						</li>

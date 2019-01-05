@@ -102,7 +102,7 @@
                     </li>
                     
                     <li>
-                        <a href="tratamientos.php">Tratamientos</a>
+                        <a href="tratamientos.php">Servicios</a>
                     </li>
 
                     <li><a href="acerca_de_nosotros.php">Nosotros</a></li>

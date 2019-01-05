@@ -54,13 +54,13 @@
 	</nav>
 	
 	<!-- Page Title-->
-	<section id="page-title" class="parallax" style="background-image: url(img/bg/title-bg.jpg);">
+	<section id="page-title" class="parallax" style="background-image: url(img/bg/microblading_portada.jpg);">
 		<div class="title-info">
 			<div class="container">
 				<div class="row">
 					<div class="col-xs-12">
 						<div class="page-title text-center">
-							<h1>Tratamientos</h1>
+							<h1>Servicios</h1>
 							<ol class="breadcrumb">
 								
 							</ol>
@@ -77,10 +77,11 @@
 	<section id="services">
 		<div class="container">
 			<div class="row">
+
 				<div class="col-xs-6 col-sm-6 col-md-4">
 					<div class="service-list">
 						<div class="thumb">
-							<img src="img/services/1.jpg" alt="" />
+							<img src="img/services/delineado_de_labios.jpg" alt="" />
 						</div>
 						<h2>Contorno de labios</h2>
 						<div class="price-text"><sup>$</sup>120<sub>/hr</sub></div>
@@ -88,21 +89,23 @@
 						<a href="procedures-details.html" class="btn btn-default">Leer más</a>
 					</div>
 				</div>
+
 				<div class="col-xs-6 col-sm-6 col-md-4">
 					<div class="service-list">
 						<div class="thumb">
-							<img src="img/services/2.jpg" alt="" />
+							<img src="img/services/delineado_labios.jpg" alt="" />
 						</div>
 						<h2>Labios full color</h2>
-						<div class="price-text"><sup>$</sup>110<sub>/hr</sub></div>
+						<div class="price-text"><sup>$</sup>120<sub>/hr</sub></div>
 						<p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias</p>
 						<a href="procedures-details.html" class="btn btn-default">Leer más</a>
 					</div>
 				</div>
+				
 				<div class="col-xs-6 col-sm-6 col-md-4">
 					<div class="service-list">
 						<div class="thumb">
-							<img src="img/services/3.jpg" alt="" />
+							<img src="img/services/delineado_de_parpados.jpg" alt="" />
 						</div>
 						<h2>Línea párpado súperior</h2>
 						<div class="price-text"><sup>$</sup>150<sub>/hr</sub></div>
@@ -110,6 +113,7 @@
 						<a href="procedures-details.html" class="btn btn-default">Leer más</a>
 					</div>
 				</div>
+
 				<div class="col-xs-6 col-sm-6 col-md-4">
 					<div class="service-list">
 						<div class="thumb">
@@ -121,6 +125,7 @@
 						<a href="procedures-details.html" class="btn btn-default">Leer más</a>
 					</div>
 				</div>
+
 				<div class="col-xs-6 col-sm-6 col-md-4">
 					<div class="service-list">
 						<div class="thumb">
@@ -132,10 +137,11 @@
 						<a href="procedures-details.html" class="btn btn-default">Leer más</a>
 					</div>
 				</div>
+
 				<div class="col-xs-6 col-sm-6 col-md-4">
 					<div class="service-list">
 						<div class="thumb">
-							<img src="img/services/3.jpg" alt="" />
+							<img src="img/services/cejas.jpg" alt="" />
 						</div>
 						<h2>Cejas compactas</h2>
 						<div class="price-text"><sup>$</sup>120<sub>/hr</sub></div>
@@ -143,6 +149,7 @@
 						<a href="procedures-details.html" class="btn btn-default">Leer más</a>
 					</div>
 				</div>
+
 				<div class="col-xs-6 col-sm-6 col-md-4">
 					<div class="service-list">
 						<div class="thumb">
@@ -154,6 +161,7 @@
 						<a href="procedures-details.html" class="btn btn-default">Leer más</a>
 					</div>
 				</div>
+
 				<div class="col-xs-6 col-sm-6 col-md-4">
 					<div class="service-list">
 						<div class="thumb">
@@ -165,10 +173,11 @@
 						<a href="procedures-details.html" class="btn btn-default">Leer más</a>
 					</div>
 				</div>
+
 				<div class="col-xs-6 col-sm-6 col-md-4">
 					<div class="service-list">
 						<div class="thumb">
-							<img src="img/services/3.jpg" alt="" />
+							<img src="img/services/microblading.jpg" alt="" />
 						</div>
 						<h2>Microblading</h2>
 						<div class="price-text"><sup>$</sup>150<sub>/hr</sub></div>
@@ -176,10 +185,11 @@
 						<a href="procedures-details.html" class="btn btn-default">Leer más</a>
 					</div>
 				</div>
+
 				<div class="col-xs-6 col-sm-6 col-md-4">
 					<div class="service-list">
 						<div class="thumb">
-							<img src="img/services/4.jpg" alt="" />
+							<img src="img/services/pestañas.jpg" alt="" />
 						</div>
 						<h2>Extensiones de pestañas 1x1</h2>
 						<div class="price-text"><sup>$</sup>180<sub>/hr</sub></div>
@@ -187,6 +197,7 @@
 						<a href="procedures-details.html" class="btn btn-default">Leer más</a>
 					</div>
 				</div>
+
 				<div class="col-xs-6 col-sm-6 col-md-4">
 					<div class="service-list">
 						<div class="thumb">
@@ -198,10 +209,11 @@
 						<a href="procedures-details.html" class="btn btn-default">Leer más</a>
 					</div>
 				</div>
+
 				<div class="col-xs-6 col-sm-6 col-md-4">
 					<div class="service-list">
 						<div class="thumb">
-							<img src="img/services/3.jpg" alt="" />
+							<img src="img/services/pestañas_volumen.jpg" alt="" />
 						</div>
 						<h2>Extensiones de pestañas Volumen</h2>
 						<div class="price-text"><sup>$</sup>120<sub>/hr</sub></div>
@@ -209,6 +221,7 @@
 						<a href="procedures-details.html" class="btn btn-default">Leer más</a>
 					</div>
 				</div>
+
 				<div class="col-xs-6 col-sm-6 col-md-4">
 					<div class="service-list">
 						<div class="thumb">
@@ -220,6 +233,7 @@
 						<a href="procedures-details.html" class="btn btn-default">Leer más</a>
 					</div>
 				</div>
+
 				<div class="col-xs-6 col-sm-6 col-md-4">
 					<div class="service-list">
 						<div class="thumb">
@@ -231,6 +245,7 @@
 						<a href="procedures-details.html" class="btn btn-default">Leer más</a>
 					</div>
 				</div>
+
 				<div class="col-xs-6 col-sm-6 col-md-4">
 					<div class="service-list">
 						<div class="thumb">
@@ -242,10 +257,11 @@
 						<a href="procedures-details.html" class="btn btn-default">Leer más</a>
 					</div>
 				</div>
+
 				<div class="col-xs-6 col-sm-6 col-md-4">
 					<div class="service-list">
 						<div class="thumb">
-							<img src="img/services/3.jpg" alt="" />
+							<img src="img/services/cuidado_facial.jpg" alt="" />
 						</div>
 						<h2>Limpieza profunda</h2>
 						<div class="price-text"><sup>$</sup>120<sub>/hr</sub></div>
