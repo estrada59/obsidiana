@@ -207,7 +207,7 @@
                                     <h2>Nuestros horarios:</h2>
                                     <ul class="bussiness-hour">
                                         <li>Lunes-Viernes: <span class="pull-right">4:00 pm - 8:00 pm.</span></li>
-                                        <li>Sábados y Domingos: <span class="pull-right">9:00 am - 2:00 pm.</span></li>
+                                        <li>Sábados y Domingos: <span class="pull-right">9:00 am - 8:00 pm.</span></li>
                                     </ul>
                                 </div>
                             </div>

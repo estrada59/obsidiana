@@ -101,10 +101,7 @@
 				<div class="col-xs-12 col-sm-12 col-md-6">
 					<div class="content-left wow fadeInLeft">
 						<h2>Misión</h2>
-						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi fermentum justo vitae convallis varius. Nulla tristique risus ut justo pulvinar mattis.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi fermentum justo vitae convallis varius. Nulla tristique risus ut justo pulvinar mattis.</p>
-						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi fermentum justo vitae convallis varius. Nulla tristique risus ut justo pulvinar mattis.Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi fermentum justo vitae convallis varius. Nulla tristique risus ut justo pulvinar mattis.Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-						
+						<p>Desmitificar la belleza brindando servicios éticos,  confiables y de calidad  que ayuden a dibujar sonrisas en las personas.</p>
 					</div>
 				</div>
 				<div class="col-xs-12 col-sm-12 col-md-6">
@@ -129,9 +126,17 @@
 				<div class="col-xs-12 col-sm-12 col-md-6">
 					<div class="content-right wow fadeInRight">
 						<h2>Visión</h2>
-						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi fermentum justo vitae convallis varius. Nulla tristique risus ut justo pulvinar mattis.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi fermentum justo vitae convallis varius. Nulla tristique risus ut justo pulvinar mattis.</p>
-						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi fermentum justo vitae convallis varius. Nulla tristique risus ut justo pulvinar mattis.Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi fermentum justo vitae convallis varius. Nulla tristique risus ut justo pulvinar mattis.Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+						<p>Ser referente en el campo de la Micropigmentación por nuestra calidad y experiencia.</p>
+						<br>
+						<h2>Valores:</h2>
+						<ul class="category-list">
+						 	<li> <i class="fa fa-leaf"></i> Honestidad</li>
+							<li> <i class="fa fa-leaf"></i> Compromiso</li>
+							<li> <i class="fa fa-leaf"></i> Puntualidad</li>
+							<li> <i class="fa fa-leaf"></i> Satisfacción</li>
+						</ul>
+						 
+						
 					</div>
 				</div>
 			</div>

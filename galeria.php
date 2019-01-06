@@ -117,7 +117,7 @@
 						</li>
 						<li class="gallery herbal-spa">
 							<div class="post_thumb">
-								<img src="img/gallery/5.jpg" alt="">
+								<img src="img/gallery/microblading_1.jpg" alt="">
 								<div class="gallery-overlay">
 									<a href="img/gallery/5.jpg" class="fancybox" title="Gallery Image 5"><i class="fa fa-camera"></i></a>
 								</div>
@@ -125,7 +125,7 @@
 						</li>
 						<li class="gallery skin-care">
 							<div class="post_thumb">
-								<img src="img/gallery/6.jpg" alt="">
+								<img src="img/gallery/microblading_2.jpg" alt="">
 								<div class="gallery-overlay">
 									<a href="img/gallery/6.jpg" class="fancybox" title="Gallery Image 6"><i class="fa fa-camera"></i></a>
 								</div>
@@ -133,7 +133,7 @@
 						</li>
 						<li class="gallery body-message">
 							<div class="post_thumb">
-								<img src="img/gallery/7.jpg" alt="">
+								<img src="img/gallery/microblading_3.jpg" alt="">
 								<div class="gallery-overlay">
 									<a href="img/gallery/7.jpg" class="fancybox" title="Gallery Image 7"><i class="fa fa-camera"></i></a>
 								</div>
@@ -141,7 +141,7 @@
 						</li>
 						<li class="gallery skin-care">
 							<div class="post_thumb">
-								<img src="img/gallery/8.jpg" alt="">
+								<img src="img/gallery/microblading_4.jpg" alt="">
 								<div class="gallery-overlay">
 									<a href="img/gallery/8.jpg" class="fancybox" title="Gallery Image 8"><i class="fa fa-camera"></i></a>
 								</div>
@@ -149,7 +149,7 @@
 						</li>
 						<li class="gallery herbal-spa">
 							<div class="post_thumb">
-								<img src="img/gallery/9.jpg" alt="">
+								<img src="img/gallery/punteado_de_pestañas.jpg" alt="">
 								<div class="gallery-overlay">
 									<a href="img/gallery/9.jpg" class="fancybox" title="Gallery Image 9"><i class="fa fa-camera"></i></a>
 								</div>
