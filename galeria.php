@@ -77,9 +77,9 @@
             	<div class="col-xs-12">
                 	<ul id="filter-list">
                      	<li class="filter" data-filter="all">Todo</li>
-                      	<li class="filter" data-filter="stone-message">Micropigmentación</li>
+                      	<!--<li class="filter" data-filter="stone-message">Micropigmentación</li>
                       	<li class="filter" data-filter="colocacion_de_pestañas">Pestañas</li>
-                      	<li class="filter" data-filter="herbal-spa">Cuidado Facial</li>
+                      	<li class="filter" data-filter="herbal-spa">Cuidado Facial</li>-->
 						
                     </ul><!-- @end #filter-list -->
                 </div>
@@ -93,7 +93,7 @@
 							<div class="post_thumb">
 								<img src="img/gallery/p1.jpg" alt="">
 								<div class="gallery-overlay">
-									<a href="img/gallery/p1.jpg" class="fancybox" title="Colocación de pestañas paso:1"><i class="fa fa-camera"></i></a>
+									<a href="img/gallery/p1.jpg" class="fancybox" title=""><i class="fa fa-camera"></i></a>
 								</div>
 							</div>
 						</li>
@@ -103,7 +103,7 @@
 							<div class="post_thumb">
 								<img src="img/gallery/p2.jpg" alt="">
 								<div class="gallery-overlay">
-									<a href="img/gallery/p2.jpg" class="fancybox" title="Colocación de pestañas paso:2"><i class="fa fa-camera"></i></a>
+									<a href="img/gallery/p2.jpg" class="fancybox" title=""><i class="fa fa-camera"></i></a>
 								</div>
 							</div>
 						</li>
@@ -111,7 +111,7 @@
 							<div class="post_thumb">
 								<img src="img/gallery/p3.jpg" alt="">
 								<div class="gallery-overlay">
-									<a href="img/gallery/p3.jpg" class="fancybox" title="Colocación de pestañas paso:3"><i class="fa fa-camera"></i></a>
+									<a href="img/gallery/p3.jpg" class="fancybox" title=""><i class="fa fa-camera"></i></a>
 								</div>
 							</div>
 						</li>
@@ -119,7 +119,7 @@
 							<div class="post_thumb">
 								<img src="img/gallery/microblading_1.jpg" alt="">
 								<div class="gallery-overlay">
-									<a href="img/gallery/5.jpg" class="fancybox" title="Gallery Image 5"><i class="fa fa-camera"></i></a>
+									<a href="img/gallery/microblading_1.jpg" class="fancybox" title=""><i class="fa fa-camera"></i></a>
 								</div>
 							</div>
 						</li>
@@ -127,7 +127,7 @@
 							<div class="post_thumb">
 								<img src="img/gallery/microblading_2.jpg" alt="">
 								<div class="gallery-overlay">
-									<a href="img/gallery/6.jpg" class="fancybox" title="Gallery Image 6"><i class="fa fa-camera"></i></a>
+									<a href="img/gallery/microblading_2.jpg" class="fancybox" title=""><i class="fa fa-camera"></i></a>
 								</div>
 							</div>
 						</li>
@@ -135,7 +135,7 @@
 							<div class="post_thumb">
 								<img src="img/gallery/microblading_3.jpg" alt="">
 								<div class="gallery-overlay">
-									<a href="img/gallery/7.jpg" class="fancybox" title="Gallery Image 7"><i class="fa fa-camera"></i></a>
+									<a href="img/gallery/microblading_3.jpg" class="fancybox" title=""><i class="fa fa-camera"></i></a>
 								</div>
 							</div>
 						</li>
@@ -143,7 +143,7 @@
 							<div class="post_thumb">
 								<img src="img/gallery/microblading_4.jpg" alt="">
 								<div class="gallery-overlay">
-									<a href="img/gallery/8.jpg" class="fancybox" title="Gallery Image 8"><i class="fa fa-camera"></i></a>
+									<a href="img/gallery/microblading_4.jpg" class="fancybox" title=""><i class="fa fa-camera"></i></a>
 								</div>
 							</div>
 						</li>
@@ -151,34 +151,11 @@
 							<div class="post_thumb">
 								<img src="img/gallery/punteado_de_pestañas.jpg" alt="">
 								<div class="gallery-overlay">
-									<a href="img/gallery/9.jpg" class="fancybox" title="Gallery Image 9"><i class="fa fa-camera"></i></a>
+									<a href="img/gallery/punteado_de_pestañas.jpg" class="fancybox" title=""><i class="fa fa-camera"></i></a>
 								</div>
 							</div>
 						</li>
-						<li class="gallery stone-message">
-							<div class="post_thumb">
-								<img src="img/gallery/10.jpg" alt="">
-								<div class="gallery-overlay">
-									<a href="img/gallery/10.jpg" class="fancybox" title="Gallery Image 10"><i class="fa fa-camera"></i></a>
-								</div>
-							</div>
-						</li>
-						<li class="gallery skin-care">
-							<div class="post_thumb">
-								<img src="img/gallery/11.jpg" alt="">
-								<div class="gallery-overlay">
-									<a href="img/gallery/11.jpg" class="fancybox" title="Gallery Image 11"><i class="fa fa-camera"></i></a>
-								</div>
-							</div>
-						</li>
-						<li class="gallery stone-message">
-							<div class="post_thumb">
-								<img src="img/gallery/12.jpg" alt="">
-								<div class="gallery-overlay">
-									<a href="img/gallery/12.jpg" class="fancybox" title="Gallery Image 12"><i class="fa fa-camera"></i></a>
-								</div>
-							</div>
-						</li>
+						
 					</ul>
 				</div>
 			</div>

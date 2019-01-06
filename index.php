@@ -277,70 +277,7 @@
 								</div>
 							</div>
 						</li>
-					<!--	<li>
-							<div class="post_thumb">
-								<img src="img/gallery/labios.jpg" alt="">
-								<div class="gallery-overlay">
-									<a href="img/gallery/labios.jpg" class="fancybox" title="Labios full color"><i class="fa fa-camera"></i></a>
-								</div>
-							</div>
-						</li>
-						<li>
-							<div class="post_thumb">
-								<img src="img/gallery/microblading.jpg" alt="">
-								<div class="gallery-overlay">
-									<a href="img/gallery/microblading.jpg" class="fancybox" title="Microblading"><i class="fa fa-camera"></i></a>
-								</div>
-							</div>
-						</li>
-						<li>
-							<div class="post_thumb">
-								<img src="img/gallery/pestañas.jpg" alt="">
-								<div class="gallery-overlay">
-									<a href="img/gallery/pestañas.jpg" class="fancybox" title="Extensión de pestañas 1x1"><i class="fa fa-camera"></i></a>
-								</div>
-							</div>
-						</li>
-						<li>
-							<div class="post_thumb">
-								<img src="img/gallery/8.jpg" alt="">
-								<div class="gallery-overlay">
-									<a href="img/gallery/8.jpg" class="fancybox" title="Gallery Image 8"><i class="fa fa-camera"></i></a>
-								</div>
-							</div>
-						</li>
-						<li>
-							<div class="post_thumb">
-								<img src="img/gallery/9.jpg" alt="">
-								<div class="gallery-overlay">
-									<a href="img/gallery/9.jpg" class="fancybox" title="Gallery Image 9"><i class="fa fa-camera"></i></a>
-								</div>
-							</div>
-						</li>
-						<li>
-							<div class="post_thumb">
-								<img src="img/gallery/10.jpg" alt="">
-								<div class="gallery-overlay">
-									<a href="img/gallery/10.jpg" class="fancybox" title="Gallery Image 10"><i class="fa fa-camera"></i></a>
-								</div>
-							</div>
-						</li>
-						<li>
-							<div class="post_thumb">
-								<img src="img/gallery/11.jpg" alt="">
-								<div class="gallery-overlay">
-									<a href="img/gallery/11.jpg" class="fancybox" title="Gallery Image 11"><i class="fa fa-camera"></i></a>
-								</div>
-							</div>
-						</li>
-						<li>
-							<div class="post_thumb">
-								<img src="img/gallery/12.jpg" alt="">
-								<div class="gallery-overlay">
-									<a href="img/gallery/12.jpg" class="fancybox" title="Gallery Image 12"><i class="fa fa-camera"></i></a>
-								</div>
-							</div>
-						</li>  -->
+					
 					</ul>
 				</div>
 			</div>
@@ -360,53 +297,56 @@
 	
 	
 	<!-- Testimonials -->
-	<!--<section class="section-padding">
+	<section class="section-padding">
 		<div class="container">
 			<div class="row">
 				<div class="col-xs-12">
 					<div class="title-block text-center">
-						<h1>Our Clients Say</h1>
+						<h1>Qué dicen nuestros clientes</h1>
 						<div class="line-block">
 							<span class="bullet"><i class="fa fa-leaf"></i></span>
 						</div>
-						<p>Lorem ipsum dolor sit amet consectetur adipisicing elitsed eiusmod tempor enim minim veniam quis notru exercit</p>
+						<!--<p>Lorem ipsum dolor sit amet consectetur adipisicing elitsed eiusmod tempor enim minim veniam quis notru exercit</p>-->
 					</div>
 				</div>
 			</div>
 			
 			<div class="row">
 				<div class="col-xs-12 col-sm-12 col-md-10 col-md-offset-1">
-					<div id="testimonial-carousel" class="carousel slide" data-ride="carousel">-->
+					<div id="testimonial-carousel" class="carousel slide" data-ride="carousel">
 						<!-- Carousel items -->
-						<!--<div class="carousel-inner">
+						<div class="carousel-inner">
 							<div class="active item">
 								<div class="testimonial-item text-center">
 									<i class="fa fa-quote-left"></i>
 									<div class="author-comments">
-										<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+										<p>Me hice el microblading hace aproximadamente 4 meses y siguen intactas!!
+											Lavo mi cara normal, hago ejercicio entre semana y mis cejas siguen sin ningún descuido a pesar del sudor.
+											El microblading hace que se vean naturales y ya no tengo la necesidad de maquillarme tanto.</p>
 									</div>
 									<div class="author">
-										<img src="img/testimonials/1.png" alt="">
+										<img src="img/testimonials/alanis_zurita.jpg" alt="">
 									</div>
-									<div class="designation">Philip Josep <small>CEO - Company Name</small></div>
+									<div class="designation">Alanis J. Zurita Dominguez<small>Lic. en Enfermeria</small></div>
 								</div>
 							</div>
 							<div class="item">
 								<div class="testimonial-item text-center">
 									<i class="fa fa-quote-left"></i>
 									<div class="author-comments">
-										<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+										<p>"Excelente trabajo!" 
+											Me encantaron mis pestañas con volumen, altamente recomendada!</p>
 									</div>
 									<div class="author">
 										<img src="img/testimonials/2.png" alt="">
 									</div>
-									<div class="designation">Philip Josep <small>Founder - Company Name</small></div>
+									<div class="designation">Ana Lilia Canabal <small>Maestra de preescolar & MUA</small></div>
 								</div>
 							</div>
 							
-						</div>-->
+						</div>
 						<!-- Carousel nav -->
-						<!--<a class="control left" href="#testimonial-carousel" data-slide="prev"> <i class="fa fa-long-arrow-left"></i></a>
+						<a class="control left" href="#testimonial-carousel" data-slide="prev"> <i class="fa fa-long-arrow-left"></i></a>
 						<a class="control right" href="#testimonial-carousel" data-slide="next"> <i class="fa fa-long-arrow-right"></i></a>
 					</div>
 				</div>
@@ -414,7 +354,7 @@
 			
 		</div>
 		
-	</section>-->
+	</section>
 	<!-- End Testimonials -->
 	
 	
