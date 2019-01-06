@@ -57,7 +57,7 @@
 
 		<!-- Wrapper for slides -->
 		<div class="carousel-inner" role="listbox">
-			<div class="item active" style="background-image:url(img/banner/microblading.jpg);">
+			<div class="item active" style="background-image:url(img/banner/imagen_1.jpg);">
 				<div class="caption-info">
 					<div class="container">
 						<div class="row">
@@ -73,7 +73,7 @@
 				</div>
 			</div>
 			
-			<div class="item" style="background-image:url(img/banner/delineado_de_labios.jpg);">
+			<div class="item" style="background-image:url(img/banner/imagen_2.jpg);">
 				<div class="caption-info">
 					<div class="container">
 						<div class="row">
@@ -89,7 +89,7 @@
 				</div>
 			</div>
 			
-			<div class="item" style="background-image:url(img/banner/cejas.jpg);">
+			<div class="item" style="background-image:url(img/banner/imagen_3.jpg);">
 				<div class="caption-info">
 					<div class="container">
 						<div class="row">
@@ -104,6 +104,40 @@
 					</div>
 				</div>
 			</div>
+
+			<div class="item" style="background-image:url(img/banner/imagen_4.jpg);">
+				<div class="caption-info">
+					<div class="container">
+						<div class="row">
+							<div class="col-sm-12 col-md-8 col-md-offset-2">
+								<div class="caption-info-inner text-center">
+									<h1 class="animated fadeInDown">En búsqueda de la Belleza natural</h1>
+									<p class="animated fadeInUp">Obsidiana nace con la inquietud de expresar creatividad, resaltar la belleza, y dibujar sonrisas</p>
+									<a href="contactanos.php" class="animated fadeInUp btn btn-primary">Contacto</a>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+
+			<div class="item" style="background-image:url(img/banner/imagen_5.jpg);">
+				<div class="caption-info">
+					<div class="container">
+						<div class="row">
+							<div class="col-sm-12 col-md-8 col-md-offset-2">
+								<div class="caption-info-inner text-center">
+									<h1 class="animated fadeInDown">En búsqueda de la Belleza natural</h1>
+									<p class="animated fadeInUp">Obsidiana nace con la inquietud de expresar creatividad, resaltar la belleza, y dibujar sonrisas</p>
+									<a href="contactanos.php" class="animated fadeInUp btn btn-primary">Contacto</a>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+
+
 			
 		</div><!--end carousel-inner-->
 		
@@ -128,170 +162,17 @@
 					</div>
 				</div>
 			</div>
+
+
 			<div class="row">
 				<div class="col-xs-12">
 					<div class="services-block" id="services-carousel">
-						<div class="service-list">
-							<div class="thumb">
-								<img src="img/services/delineado_de_labios.jpg" alt="" />
-							</div>
-							<h2>Contorno de labios</h2>
-							<div class="price-text"><sup>$</sup>160<sub>/hr</sub></div>
-							<p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias</p>
-							<a href="procedures-details.html" class="btn btn-default">Leer más</a>
-                        </div>
-                        
-                        <div class="service-list">
-							<div class="thumb">
-								<img src="img/services/delineado_labios.jpg" alt="" />
-							</div>
-							<h2>Labios full color</h2>
-							<div class="price-text"><sup>$</sup>110<sub>/hr</sub></div>
-							<p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias</p>
-							<a href="procedures-details.html" class="btn btn-default">Leer más</a>
-						</div>
-						
-						<div class="service-list">
-							<div class="thumb">
-								<img src="img/services/3.jpg" alt="" />
-							</div>
-							<h2>Línea párpado súperior</h2>
-							<div class="price-text"><sup>$</sup>120<sub>/hr</sub></div>
-							<p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias</p>
-							<a href="procedures-details.html" class="btn btn-default">Leer más</a>
-						</div>
-						
-						<div class="service-list">
-							<div class="thumb">
-								<img src="img/services/4.jpg" alt="" />
-							</div>
-							<h2>Línea párpado inferior</h2>
-							<div class="price-text"><sup>$</sup>130<sub>/hr</sub></div>
-							<p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias</p>
-							<a href="procedures-details.html" class="btn btn-default">Leer más</a>
-						</div>
-						
-						<div class="service-list">
-							<div class="thumb">
-								<img src="img/services/2.jpg" alt="" />
-							</div>
-							<h2>Línea de luz párpado superior</h2>
-							<div class="price-text"><sup>$</sup>110<sub>/hr</sub></div>
-							<p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias</p>
-							<a href="procedures-details.html" class="btn btn-default">Leer más</a>
-						</div>
-						
-						<div class="service-list">
-							<div class="thumb">
-								<img src="img/services/3.jpg" alt="" />
-							</div>
-							<h2>Cejas compactas</h2>
-							<div class="price-text"><sup>$</sup>120<sub>/hr</sub></div>
-							<p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias</p>
-							<a href="procedures-details.html" class="btn btn-default">Leer más</a>
-						</div>
-						
-						<div class="service-list">
-							<div class="thumb">
-								<img src="img/services/4.jpg" alt="" />
-							</div>
-							<h2>Cejas sombreadas</h2>
-							<div class="price-text"><sup>$</sup>130<sub>/hr</sub></div>
-							<p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias</p>
-							<a href="procedures-details.html" class="btn btn-default">Leer más</a>
-                        </div>
-                        
-                        <div class="service-list">
-							<div class="thumb">
-								<img src="img/services/4.jpg" alt="" />
-							</div>
-							<h2>Cejas técnica mixta</h2>
-							<div class="price-text"><sup>$</sup>130<sub>/hr</sub></div>
-							<p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias</p>
-							<a href="procedures-details.html" class="btn btn-default">Leer más</a>
-                        </div>
-                        
-                        <div class="service-list">
-							<div class="thumb">
-								<img src="img/services/4.jpg" alt="" />
-							</div>
-							<h2>Microblading</h2>
-							<div class="price-text"><sup>$</sup>130<sub>/hr</sub></div>
-							<p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias</p>
-							<a href="procedures-details.html" class="btn btn-default">Leer más</a>
-                        </div>
-                        
-                        <div class="service-list">
-							<div class="thumb">
-								<img src="img/services/4.jpg" alt="" />
-							</div>
-							<h2>Extensiones de pestañas 1x1</h2>
-							<div class="price-text"><sup>$</sup>130<sub>/hr</sub></div>
-							<p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias</p>
-							<a href="procedures-details.html" class="btn btn-default">Leer más</a>
-                        </div>
-                        
-                        <div class="service-list">
-							<div class="thumb">
-								<img src="img/services/4.jpg" alt="" />
-							</div>
-							<h2>Extensiones de pestañas Técnica Mixta</h2>
-							<div class="price-text"><sup>$</sup>130<sub>/hr</sub></div>
-							<p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias</p>
-							<a href="procedures-details.html" class="btn btn-default">Leer más</a>
-                        </div>
-                        
-                        <div class="service-list">
-							<div class="thumb">
-								<img src="img/services/4.jpg" alt="" />
-							</div>
-							<h2>Extensiones de pestañas Volumen</h2>
-							<div class="price-text"><sup>$</sup>130<sub>/hr</sub></div>
-							<p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias</p>
-							<a href="procedures-details.html" class="btn btn-default">Leer más</a>
-                        </div>
-                        
-                        <div class="service-list">
-							<div class="thumb">
-								<img src="img/services/4.jpg" alt="" />
-							</div>
-							<h2>Lash lifting</h2>
-							<div class="price-text"><sup>$</sup>130<sub>/hr</sub></div>
-							<p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias</p>
-							<a href="procedures-details.html" class="btn btn-default">Leer más</a>
-                        </div>
-                        
-                        <div class="service-list">
-							<div class="thumb">
-								<img src="img/services/4.jpg" alt="" />
-							</div>
-							<h2>Antifaz de juventud</h2>
-							<div class="price-text"><sup>$</sup>130<sub>/hr</sub></div>
-							<p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias</p>
-							<a href="procedures-details.html" class="btn btn-default">Leer más</a>
-                        </div>
-                        
-                        <div class="service-list">
-							<div class="thumb">
-								<img src="img/services/4.jpg" alt="" />
-							</div>
-							<h2>Microdermoabrasion + Hidratación</h2>
-							<div class="price-text"><sup>$</sup>130<sub>/hr</sub></div>
-							<p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias</p>
-							<a href="procedures-details.html" class="btn btn-default">Leer más</a>
-                        </div>
-                        
-                        <div class="service-list">
-							<div class="thumb">
-								<img src="img/services/4.jpg" alt="" />
-							</div>
-							<h2>Limpieza profunda</h2>
-							<div class="price-text"><sup>$</sup>130<sub>/hr</sub></div>
-							<p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias</p>
-							<a href="procedures-details.html" class="btn btn-default">Leer más</a>
-                        </div>
-                        
-
+						<?php 
+							include_once "servicios_s.php";
+							for($i=1; $i<=15; $i++){
+								servicios($i);
+							}	
+						?>
 					</div>
 				</div>
 			</div>

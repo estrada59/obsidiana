@@ -54,7 +54,7 @@
 	</nav>
 	
 	<!-- Page Title-->
-	<section id="page-title" class="parallax" style="background-image: url(img/bg/title-bg.jpg);">
+	<section id="page-title" class="parallax" style="background-image: url(img/bg/imagen_2.jpg);">
 		<div class="title-info">
 			<div class="container">
 				<div class="row">

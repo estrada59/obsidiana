@@ -1,13 +1,14 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <?php 
+	<?php 
         //head
         //en éste encabezado podemos cambiar color a los css
         include_once "header.php";
-		head();
+        head();
 	?>
 </head>
+
 <body>
 	<!--Preload-->
 	<div class="preloader">
@@ -16,7 +17,7 @@
 	
 	<!-- Top bar -->
     <?php
-		top_bar();
+        top_bar();
     ?>
 	<!-- End Top bar -->
 	
@@ -36,7 +37,8 @@
                         </button>
                         <?php 
                             logo();
-                        ?>	
+                        ?>
+						
 					</div>
 
 					<!-- Collect the nav links, forms, and other content for toggling -->
@@ -52,13 +54,13 @@
 	</nav>
 	
 	<!-- Page Title-->
-	<section id="page-title" class="parallax" style="background-image: url(img/bg/imagen_3.jpg);">
+	<section id="page-title" class="parallax" style="background-image: url(img/bg/imagen_1.jpg);">
 		<div class="title-info">
 			<div class="container">
 				<div class="row">
 					<div class="col-xs-12">
 						<div class="page-title text-center">
-							<h1>Galería</h1>
+							<h1>Servicios</h1>
 							<ol class="breadcrumb">
 								
 							</ol>
@@ -69,125 +71,34 @@
 		</div><!--end title-info-->
 	</section>
 	<!--end page-title-->
+	
+	<!-- Services Section -->
 
-	<!-- Portfolio Section -->
-	<section id="portfolio">
+	<section id="services">
 		<div class="container">
 			<div class="row">
-            	<div class="col-xs-12">
-                	<ul id="filter-list">
-                     	<li class="filter" data-filter="all">Todo</li>
-                      	<li class="filter" data-filter="stone-message">Micropigmentación</li>
-                      	<li class="filter" data-filter="colocacion_de_pestañas">Pestañas</li>
-                      	<li class="filter" data-filter="herbal-spa">Cuidado Facial</li>
-						
-                    </ul><!-- @end #filter-list -->
-                </div>
-            </div><!--end row-->
-			
-			<div class="row">
-				<div class="col-xs-12">
-					<ul class="gallery-item">
-						
-						<li class="gallery colocacion_de_pestañas">
-							<div class="post_thumb">
-								<img src="img/gallery/p1.jpg" alt="">
-								<div class="gallery-overlay">
-									<a href="img/gallery/p1.jpg" class="fancybox" title="Colocación de pestañas paso:1"><i class="fa fa-camera"></i></a>
-								</div>
-							</div>
-						</li>
 
+				
+					<?php 
+						include_once "servicios_s.php";
+						for($i=1; $i<=15; $i++){
+							echo'<div class="col-xs-6 col-sm-6 col-md-4">';
+								servicios($i);
+							echo'</div>';
+						}
 
-						<li class="gallery colocacion_de_pestañas">
-							<div class="post_thumb">
-								<img src="img/gallery/p2.jpg" alt="">
-								<div class="gallery-overlay">
-									<a href="img/gallery/p2.jpg" class="fancybox" title="Colocación de pestañas paso:2"><i class="fa fa-camera"></i></a>
-								</div>
-							</div>
-						</li>
-						<li class="gallery colocacion_de_pestañas">
-							<div class="post_thumb">
-								<img src="img/gallery/p3.jpg" alt="">
-								<div class="gallery-overlay">
-									<a href="img/gallery/p3.jpg" class="fancybox" title="Colocación de pestañas paso:3"><i class="fa fa-camera"></i></a>
-								</div>
-							</div>
-						</li>
-						<li class="gallery herbal-spa">
-							<div class="post_thumb">
-								<img src="img/gallery/5.jpg" alt="">
-								<div class="gallery-overlay">
-									<a href="img/gallery/5.jpg" class="fancybox" title="Gallery Image 5"><i class="fa fa-camera"></i></a>
-								</div>
-							</div>
-						</li>
-						<li class="gallery skin-care">
-							<div class="post_thumb">
-								<img src="img/gallery/6.jpg" alt="">
-								<div class="gallery-overlay">
-									<a href="img/gallery/6.jpg" class="fancybox" title="Gallery Image 6"><i class="fa fa-camera"></i></a>
-								</div>
-							</div>
-						</li>
-						<li class="gallery body-message">
-							<div class="post_thumb">
-								<img src="img/gallery/7.jpg" alt="">
-								<div class="gallery-overlay">
-									<a href="img/gallery/7.jpg" class="fancybox" title="Gallery Image 7"><i class="fa fa-camera"></i></a>
-								</div>
-							</div>
-						</li>
-						<li class="gallery skin-care">
-							<div class="post_thumb">
-								<img src="img/gallery/8.jpg" alt="">
-								<div class="gallery-overlay">
-									<a href="img/gallery/8.jpg" class="fancybox" title="Gallery Image 8"><i class="fa fa-camera"></i></a>
-								</div>
-							</div>
-						</li>
-						<li class="gallery herbal-spa">
-							<div class="post_thumb">
-								<img src="img/gallery/9.jpg" alt="">
-								<div class="gallery-overlay">
-									<a href="img/gallery/9.jpg" class="fancybox" title="Gallery Image 9"><i class="fa fa-camera"></i></a>
-								</div>
-							</div>
-						</li>
-						<li class="gallery stone-message">
-							<div class="post_thumb">
-								<img src="img/gallery/10.jpg" alt="">
-								<div class="gallery-overlay">
-									<a href="img/gallery/10.jpg" class="fancybox" title="Gallery Image 10"><i class="fa fa-camera"></i></a>
-								</div>
-							</div>
-						</li>
-						<li class="gallery skin-care">
-							<div class="post_thumb">
-								<img src="img/gallery/11.jpg" alt="">
-								<div class="gallery-overlay">
-									<a href="img/gallery/11.jpg" class="fancybox" title="Gallery Image 11"><i class="fa fa-camera"></i></a>
-								</div>
-							</div>
-						</li>
-						<li class="gallery stone-message">
-							<div class="post_thumb">
-								<img src="img/gallery/12.jpg" alt="">
-								<div class="gallery-overlay">
-									<a href="img/gallery/12.jpg" class="fancybox" title="Gallery Image 12"><i class="fa fa-camera"></i></a>
-								</div>
-							</div>
-						</li>
-					</ul>
+					?>
+
+					
 				</div>
+
 			</div>
 		</div>
 	</section>
-	<!-- End Portfolio Section -->
+	<!-- End Services Section -->
 	
 	<!-- Start footer-->
-	<?php
+    <?php
         footer();
     ?>
     <!-- Edn footer-->
@@ -318,8 +229,8 @@
                 
             </div>
         </div>
-    </div>   
-		
+    </div>    
+	
     <!-- jQuery -->
     <script src="js/jquery.js" type="text/javascript"></script>
     <script src="js/bootstrap.min.js" type="text/javascript"></script>
