@@ -109,7 +109,7 @@
 							<div class="contact-list wow fadeInLeft">
 								<i class="fa fa-clock-o"></i>
 								<div class="contact-info">
-									<p>Lunes a Viernes: 4:00 pm - 8:00 pm <br> Sábados y Domíngos: 9:00 am - 2:00 pm</p>
+									<p>Lunes a Viernes: 4:00 pm - 8:00 pm <br> Sábados y Domíngos: 9:00 am - 8:00 pm</p>
 								</div>
 							</div>
 						</li>
