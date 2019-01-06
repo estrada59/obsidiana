@@ -78,15 +78,15 @@
 			<div class="row">
 				<div class="col-xs-12 col-sm-12 col-md-6">
 					<div class="content-left wow fadeInLeft">
-						<img src="img/about-us/1.jpg" alt="" />
+						<img src="img/about-us/nuestra_historia.jpg" alt="" />
 					</div>
 				</div>
 				<div class="col-xs-12 col-sm-12 col-md-6">
 					<div class="content-right wow fadeInRight">
 						<h2>Nuestra historia</h2>
-						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi fermentum justo vitae convallis varius. Nulla tristique risus ut justo pulvinar mattis.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi fermentum justo vitae convallis varius. Nulla tristique risus ut justo pulvinar mattis.</p>
-						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi fermentum justo vitae convallis varius. Nulla tristique risus ut justo pulvinar mattis.Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi fermentum justo vitae convallis varius. Nulla tristique risus ut justo pulvinar mattis.Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+						<p>Obsidiana nace con la inquietud de expresar nuestra creatividad haciendo lo que más nos gusta, resaltar la belleza y dibujar sonrisas.</p>
+						<p> En este proceso de búsqueda de expresión creativa la  Cosmetológia, la Masoterapia y ahora Micropigmentación han sido los elementos que suman experiencia y herramientas para brindar el tratamiento adecuado al momento de plasmar en el lienzo más importante, las personas que confían en Obsidiana. </p>
+						<p> Seguimos innovando y ahora enfocados en rostro , ofrecemos servicios de Micropigmentación y Pestañas, siempre en busca de la satisfacción de nuestra  persona favorita,  usted.</p>
 					</div>
 				</div>
 			</div>
@@ -106,7 +106,7 @@
 				</div>
 				<div class="col-xs-12 col-sm-12 col-md-6">
 					<div class="content-right wow fadeInRight">
-						<img src="img/about-us/2.jpg" alt="" />
+						<img src="img/about-us/mision.jpg" alt="" />
 					</div>
 				</div>
 			</div>
@@ -120,7 +120,7 @@
 			<div class="row">
 				<div class="col-xs-12 col-sm-12 col-md-6">
 					<div class="content-left wow fadeInLeft">
-						<img src="img/about-us/1.jpg" alt="" />
+						<img src="img/about-us/vision.jpg" alt="" />
 					</div>
 				</div>
 				<div class="col-xs-12 col-sm-12 col-md-6">

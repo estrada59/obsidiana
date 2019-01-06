@@ -219,7 +219,7 @@
 				</div>
 				<div class="col-xs-6 col-sm-4">
 					<div class="features-info">
-						<span class="counter">18</span><h2>Tratamientos</h2>
+						<span class="counter">18</span><h2>Servicios</h2>
 					</div>
 				</div>
 			</div>
@@ -247,33 +247,33 @@
 					<ul class="gallery-item">
 						<li>
 							<div class="post_thumb">
-								<img src="img/gallery/cejas.jpg" alt="">
+								<img src="img/gallery/microblading_1.jpg" alt="">
 								<div class="gallery-overlay">
-									<a href="img/gallery/cejas.jpg" class="fancybox" title="Cejas compactas"><i class="fa fa-camera"></i></a>
+									<a href="img/gallery/microblading_1.jpg" class="fancybox" title=""><i class="fa fa-camera"></i></a>
 								</div>
 							</div>
 						</li>
 						<li>
 							<div class="post_thumb">
-								<img src="img/gallery/cuidado_facial.jpg" alt="">
+								<img src="img/gallery/microblading_2.jpg" alt="">
 								<div class="gallery-overlay">
-									<a href="img/gallery/cuidado_facial.jpg" class="fancybox" title="Cuidado facial"><i class="fa fa-camera"></i></a>
+									<a href="img/gallery/microblading_2.jpg" class="fancybox" title=""><i class="fa fa-camera"></i></a>
 								</div>
 							</div>
 						</li>
 						<li>
 							<div class="post_thumb">
-								<img src="img/gallery/delineado_de_labios.jpg" alt="">
+								<img src="img/gallery/microblading_3.jpg" alt="">
 								<div class="gallery-overlay">
-									<a href="img/gallery/delineado_de_labios.jpg" class="fancybox" title="Contorno de labios"><i class="fa fa-camera"></i></a>
+									<a href="img/gallery/microblading_3.jpg" class="fancybox" title=""><i class="fa fa-camera"></i></a>
 								</div>
 							</div>
 						</li>
 						<li>
 							<div class="post_thumb">
-								<img src="img/gallery/delineado_de_parpados.jpg" alt="">
+								<img src="img/gallery/microblading_4.jpg" alt="">
 								<div class="gallery-overlay">
-									<a href="img/gallery/delineado_de_parpados.jpg" class="fancybox" title="Delineado de parpados"><i class="fa fa-camera"></i></a>
+									<a href="img/gallery/microblading_4.jpg" class="fancybox" title=""><i class="fa fa-camera"></i></a>
 								</div>
 							</div>
 						</li>

@@ -58,7 +58,7 @@
 				<div class="row">
 					<div class="col-xs-12">
 						<div class="page-title text-center">
-							<h1>Cejas sombreadas o compactas</h1>
+							<h1>Lash lifting</h1>
 							
 						</div>
 					</div>
@@ -75,19 +75,18 @@
 				<div class="col-xs-12 col-sm-5 col-md-4">
 					<div class="service-list single">
 						<div class="thumb">
-							<img src="img/services/cejas.jpg" alt="" />
+							<img src="img/services/lash_lifting.jpg" alt="" />
 						</div>
-						<h2>Cejas sombreadas o compactas</h2>
+						<h2>Lash lifting</h2>
 						<!--<p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias</p>-->
 					</div>
 				</div>
 				<div class="col-xs-12 col-sm-7 col-md-8">
 					<div class="service-details">
-                        <h3>Sesión 120 min <br/>
-                            Duración de 1 a 4 años aprox<br/>
-                            $2,000.00 </h3>
-                        <p>La micropigmentación en cejas con efecto sombreado o compacto, se hace con dermógrafo, comunmente conocida como la "maquinita". Esto permite que el pigmento se deposite a un nivel más profundo y su tiempo de duración en piel sea más prolongado.</p>
-                        <p> Se recomienda para personas que les guste verse maquilladas.</p>
+						<h3>Sesión de 50 min<br/>$550.00 </h3>
+						<p>Consiste en levantar de forma semi permanente las pestañas naturales, mientras agregamos color y nutrimos con keratina sin maltratar. 
+							Ideal para personal que tienen buena cantidad de pestañas naturales y quiere lucirlas levantadas sin perder tiempo a diario utilizado el rizador. 
+							Efecto muy natural, apto para jovencitas.</p>
 						
 					</div>
 				</div>

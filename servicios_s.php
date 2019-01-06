@@ -50,9 +50,9 @@ function servicios($var){
                         <img src="img/services/delineado_parpados_inferior.jpg" alt="Delineado de párpado inferior" />
                     </div>
                     <h2>Delineado de párpado inferior</h2>
-                    <div class="price-text"><sup>$</sup>1,500.00</div>
+                    <div class="price-text"><sup>$</sup>1,000.00</div>
                     <p>El delineado obscuro en le párpado superior y/o inferior resalta la mirada y nos ahorran tiempo de maquillaje.</p>
-                    <a href="delineado_parpado_inferior_superior.php" class="btn btn-default">Leer más</a>
+                    <a href="delineado_parpado_inferior.php" class="btn btn-default">Leer más</a>
                 </div>
             ';
         break;
@@ -66,7 +66,7 @@ function servicios($var){
                     <h2>Delineado de párpado superior</h2>
                     <div class="price-text"><sup>$</sup>1,500.00</div>
                     <p>El delineado obscuro en le párpado superior y/o inferior resalta la mirada y nos ahorran tiempo de maquillaje.</p>
-                    <a href="delineado_parpado_inferior_superior.php" class="btn btn-default">Leer más</a>
+                    <a href="delineado_parpado_superior.php" class="btn btn-default">Leer más</a>
                 </div>
             ';
         break;
@@ -78,7 +78,7 @@ function servicios($var){
                         <img src="img/services/labios_full_color.jpg" alt="Labios full color" />
                     </div>
                     <h2> Labios Full Color</h2>
-                    <div class="price-text"><sup>$</sup>1,500.00</div>
+                    <div class="price-text"><sup>$</sup>3,500.00</div>
                     <p>Consiste en micropigmentar los labios en su totalidad. Primero delineamos y luego rellenamos con color. 
                     Con esta técnica podemos lucir unos labios simétricos,</p>
                     <a href="labios_full_color.php" class="btn btn-default">Leer más</a>
@@ -95,7 +95,7 @@ function servicios($var){
                     <h2>Lash lifting</h2>
                     <div class="price-text"><sup>$</sup>550.00</div>
                     <p>Consiste en levantar de forma semi permanente las pestañas naturales, mientras agregamos color y nutrimos con keratina sin maltratar</p>
-                    <a href="labios_full_color.php" class="btn btn-default">Leer más</a>
+                    <a href="lash_lifthing.php" class="btn btn-default">Leer más</a>
                 </div>
             ';
         break;

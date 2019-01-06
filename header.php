@@ -82,8 +82,8 @@
                                 <ul class="social-media">
                                     <li><a href="https://www.facebook.com/Obsidiana.micropigmentacion" target="_blank"><i class="fa fa-facebook"></i></a></li>
                                     <!--<li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-youtube"></i></a></li>-->
+                                    <li><a href="#"><i class="fa fa-google-plus"></i></a></li>-->
+                                    <li><a href="https://www.youtube.com/channel/UCPC6A7KZWqP-VKM0T9bg8iw" target="_blank"><i class="fa fa-youtube"></i></a></li>
                                     <li><a href="https://www.instagram.com/obsidiana_micro/?hl=es-la" target="_blank"><i class="fa fa-instagram"></i></a></li>
                                 </ul>
                             </div>

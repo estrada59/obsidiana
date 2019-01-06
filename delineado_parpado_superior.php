@@ -58,7 +58,7 @@
 				<div class="row">
 					<div class="col-xs-12">
 						<div class="page-title text-center">
-							<h1>Cejas sombreadas o compactas</h1>
+							<h1>Delineado de párpado superior</h1>
 							
 						</div>
 					</div>
@@ -75,20 +75,17 @@
 				<div class="col-xs-12 col-sm-5 col-md-4">
 					<div class="service-list single">
 						<div class="thumb">
-							<img src="img/services/cejas.jpg" alt="" />
+							<img src="img/services/delineado_parpados_superior.jpg" alt="" />
 						</div>
-						<h2>Cejas sombreadas o compactas</h2>
+						<h2>Delineado de párpado superior</h2>
 						<!--<p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias</p>-->
 					</div>
 				</div>
 				<div class="col-xs-12 col-sm-7 col-md-8">
 					<div class="service-details">
-                        <h3>Sesión 120 min <br/>
-                            Duración de 1 a 4 años aprox<br/>
-                            $2,000.00 </h3>
-                        <p>La micropigmentación en cejas con efecto sombreado o compacto, se hace con dermógrafo, comunmente conocida como la "maquinita". Esto permite que el pigmento se deposite a un nivel más profundo y su tiempo de duración en piel sea más prolongado.</p>
-                        <p> Se recomienda para personas que les guste verse maquilladas.</p>
-						
+						<h3>Sesión de 90 min<br/>$1,500.00 <br/> Duración de 1 a 4 años aprox.</h3>
+						<p>20% de desc. En delineado de párpado superior durante la misma sesión.</p>
+						<p>El delineado obscuro en el párpado superior  resalta la mirada y nos ahorra  tiempo de maquillaje. </p>
 					</div>
 				</div>
 				
