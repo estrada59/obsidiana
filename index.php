@@ -325,7 +325,7 @@
 											El microblading hace que se vean naturales y ya no tengo la necesidad de maquillarme tanto.</p>
 									</div>
 									<div class="author">
-										<img src="img/testimonials/alanis_zurita.jpg" alt="">
+										<img src="img/testimonials/alanis_zurita.png" alt="">
 									</div>
 									<div class="designation">Alanis J. Zurita Dominguez<small>Lic. en Enfermeria</small></div>
 								</div>
@@ -338,9 +338,23 @@
 											Me encantaron mis pestañas con volumen, altamente recomendada!</p>
 									</div>
 									<div class="author">
-										<img src="img/testimonials/2.png" alt="">
+										<img src="img/testimonials/ana_lilia.png" alt="">
 									</div>
 									<div class="designation">Ana Lilia Canabal <small>Maestra de preescolar & MUA</small></div>
+								</div>
+							</div>
+
+
+							<div class="item">
+								<div class="testimonial-item text-center">
+									<i class="fa fa-quote-left"></i>
+									<div class="author-comments">
+										<p>Estoy encantada con mis cejas! Antes de hacerme el microblading mis cejas eran sumamente rectas y sin forma, aunque me las maquillara nunca me gustaban, mucha gente me decía que me realizara el microblading pero tenía miedo de que no me gustara y me doliera, como mucha gente dice. Pero con Obsidiana no me dolió nada, no tuve ninguna molestia ni antes ni después, mis cejas quedaron a mi gusto, como siempre las había querido! y además de todo, el trato es muy profesional y amable, sin duda sería algo que me volvería a realizar. Gracias!! </p>
+									</div>
+									<div class="author">
+										<img src="img/testimonials/giselle_fuentes.png" alt="">
+									</div>
+									<div class="designation">Giselle Fuentes Aguilar Romellón  <small>Lic. Administración turística</small></div>
 								</div>
 							</div>
 							
