@@ -33,6 +33,17 @@
 
             <meta name="google-site-verification" content="qZeIrkuij1QjgZ8GwJUG8aDqtBvlgk81XeGh9CGnbNk" />
 
+            <!-- Global site tag (gtag.js) - Google Analytics -->
+            <script async src="https://www.googletagmanager.com/gtag/js?id=UA-27765610-3"></script>
+            <script>
+                window.dataLayer = window.dataLayer || [];
+                function gtag(){dataLayer.push(arguments);}
+                gtag("js", new Date());
+
+                gtag("config", "UA-27765610-3");
+            </script>
+
+
 
             <!-- Bootstrap Core CSS -->
             <link href="css/bootstrap.min.css" rel="stylesheet">
