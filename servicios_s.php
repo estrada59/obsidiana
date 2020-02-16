@@ -107,7 +107,7 @@ function servicios($var){
                         <img src="img/services/limpieza_facial.jpg" alt="Limpieza facial profunda" />
                     </div>
                     <h2>Limpieza facial profunda</h2>
-                    <div class="price-text"><sup>$</sup>400.00</div>
+                    <div class="price-text"><sup>$</sup>500.00</div>
                     <p>Consiste en provocar una descamación de la capa cornea mediante un peeling enzimático, de papaína y bromelina</p>
                     <a href="limpieza_facial.php" class="btn btn-default">Leer más</a>
                 </div>
@@ -149,7 +149,7 @@ function servicios($var){
                         <img src="img/services/microdermoabrasión.jpg" alt="Microdermoabrasión" />
                     </div>
                     <h2>Microdermoabrasión</h2>
-                    <div class="price-text"><sup>$</sup>500.00</div>
+                    <div class="price-text"><sup>$</sup>650.00</div>
                     <p>Consiste en remover de forma mécanica la capa cornea de la epidermis para promover la renovación celular, oxigenar la piel y eliminar pequeñas imperfeciones como </p>
                     <a href="microdermoabrasion.php" class="btn btn-default">Leer más</a>
                 </div>

@@ -83,7 +83,7 @@
 				</div>
 				<div class="col-xs-12 col-sm-7 col-md-8">
 					<div class="service-details">
-						<h3>Tiempo de tratamiento 50min<br/>$500.00 <br/>Seguimiento: El número de sesiones dependerá del estado de la piel y necesidades específicas. </h3>
+						<h3>Tiempo de tratamiento 50min<br/>$650.00 <br/>Seguimiento: El número de sesiones dependerá del estado de la piel y necesidades específicas. </h3>
 						<p>Consiste en remover de forma mécanica la capa cornea de la epidermis para promover la renovación celular, oxigenar la piel y eliminar pequeñas imperfecciones como lineas finas, poros dilatados, manchas superficiales, puntos negros, entre otros.</p>
 						<p>Después de la microdescamación que llevamos a cabo con la succión moderada, podemos hidratar a profundidad la piel para promover el buen estado y apariencia de la misma. </p>
 					</div>

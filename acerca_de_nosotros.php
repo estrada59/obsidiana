@@ -84,9 +84,11 @@
 				<div class="col-xs-12 col-sm-12 col-md-6">
 					<div class="content-right wow fadeInRight">
 						<h2>Nuestra historia</h2>
-						<p>Obsidiana nace con la inquietud de expresar nuestra creatividad haciendo lo que más nos gusta, resaltar la belleza y dibujar sonrisas.</p>
-						<p> En este proceso de búsqueda de expresión creativa la  Cosmetológia, la Masoterapia y ahora Micropigmentación han sido los elementos que suman experiencia y herramientas para brindar el tratamiento adecuado al momento de plasmar en el lienzo más importante, las personas que confían en Obsidiana. </p>
-						<p> Seguimos innovando y ahora enfocados en rostro , ofrecemos servicios de Micropigmentación y Pestañas, siempre en busca de la satisfacción de nuestra  persona favorita,  usted.</p>
+						<p ALIGN="justify">Obsidiana Micropigmentación nace de la inquietud de expresar mi creatividad como esteticista y poder ofrecer un lugar seguro, confortable, y servicios que respondan de manera eficiente a las necesidades específicas de cada persona que nos visita.</p>
+						<p ALIGN="justify"> En el proceso de expresión creativa la Cosmetología, Masoterapia, y la Micropigmentación forman parte fundamental. Sin embargo, considero indispensable seguir en la búsqueda constante de nuevas herramientas y técnicas, que sumen experiencia a nuestro abanico de soluciones estéticas, para ofrecer una experiencia inolvidable. </p>
+						
+						<p ALIGN="center"> Zulma Estrada.<br>Cosmetóloga | Micropigmentadora</p>
+						
 					</div>
 				</div>
 			</div>

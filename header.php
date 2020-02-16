@@ -218,8 +218,8 @@
                                 <div class="footer-widget">
                                     <h2>Nuestros horarios:</h2>
                                     <ul class="bussiness-hour">
-                                        <li>Lunes-Viernes: <span class="pull-right">4:00 pm - 8:00 pm.</span></li>
-                                        <li>Sábados y Domingos: <span class="pull-right">9:00 am - 8:00 pm.</span></li>
+                                        <li>Lunes-Sábados: <span class="pull-right">9:00 am - 5:00 pm.</span></li>
+                                        
                                     </ul>
                                 </div>
                             </div>
@@ -231,7 +231,7 @@
                         <div class="row">
                             <div class="col-xs-12">
                                 <div class="copyright text-center">
-                                    <p>&copy;copyright 2019 Obsidiana | All right reserved.</p>
+                                    <p>&copy;copyright 2020 Obsidiana | All right reserved.</p>
                                 </div>
                             </div>
                         </div>

@@ -83,7 +83,7 @@
 				</div>
 				<div class="col-xs-12 col-sm-7 col-md-8">
 					<div class="service-details">
-						<h3>Sesión de 50 min<br/>$400.00 <br/> *Protocolo de productos de acuerdo a biotipo cutáneo.</h3>
+						<h3>Sesión de 50 min<br/>$500.00 <br/> *Protocolo de productos de acuerdo a biotipo cutáneo.</h3>
 						<p>Consiste en provocar una descamación de la capa cornea mediante un peeling enzimático, de papaína y bromelina, para después vaporizar y limpiar los poros para poder  hidratar, y oxigenar cada biotipo cutáneo. </p>
 					</div>
 				</div>
